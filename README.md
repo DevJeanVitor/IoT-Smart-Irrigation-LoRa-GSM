@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/33701f5e-6b2d-4f3c-b07d-f97840edfe5f" alt="IoT Smart Irrigation System Banner" width="100%">
+  <br>
+    <h1> IoT Smart Irrigation System (LoRa/GSM & ESP32)</h1>
 </div>
-
-## IoT Smart Irrigation System (LoRa/GSM & ESP32)
 
 We have developed an automated irrigation solution designed for remote rural areas with limited internet infrastructure. The system features reliable telemetry transmission and autonomous control through the implementation of a hybrid communication architecture that combines LoRa radio technology and GSM modules, enabling real-time remote monitoring via a customized mobile app.
 
